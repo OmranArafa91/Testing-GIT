@@ -1,1 +1,3 @@
 Line on Master
+Line 1 on Branch
+Line 2 on Branch
